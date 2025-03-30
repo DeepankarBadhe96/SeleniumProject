@@ -1,3 +1,1 @@
-# SeleniumProject
-SeleniumTestProject
-This is Test project.
+This is Test project for Selenium Advance
